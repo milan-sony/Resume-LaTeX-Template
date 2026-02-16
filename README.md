@@ -1,1 +1,1 @@
-# Resume-Overleaf-Template
+# Resume-LaTeX-Template
